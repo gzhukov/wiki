@@ -1,2 +1,2 @@
-# wiki
+# Wiki
 Some useful tips
