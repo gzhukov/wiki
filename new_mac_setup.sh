@@ -21,4 +21,5 @@ set wrap
 set ai
 set listchars=tab:··
 set list
+syntax on
 EOF
