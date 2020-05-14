@@ -23,3 +23,7 @@ set listchars=tab:··
 set list
 syntax on
 EOF
+
+# Configure git
+git config --global user.email zjukebox@gmail.com
+git config --global user.name "Gleb Zhukov"
